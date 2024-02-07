@@ -5,6 +5,8 @@ server:
     context-path: /api
 
 spring:
+  boot:
+    messge: Whisky
   datasource:
     password: rootpassword
     url: jdbc:mysql://localhost:3306/department-db
