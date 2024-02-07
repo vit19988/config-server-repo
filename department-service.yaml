@@ -6,7 +6,7 @@ server:
 
 spring:
   boot:
-    message: Peerawit Love Darin
+    message: Peerawit cannot forget Darin
   datasource:
     password: rootpassword
     url: jdbc:mysql://localhost:3306/department-db
