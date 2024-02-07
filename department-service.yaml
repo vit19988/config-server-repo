@@ -6,7 +6,7 @@ server:
 
 spring:
   boot:
-    message: Peerawit cannot forget Darin
+    message: Peerawit cannot forget Darin (Bus-Refresh)
   datasource:
     password: rootpassword
     url: jdbc:mysql://localhost:3306/department-db
