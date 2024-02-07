@@ -6,7 +6,7 @@ server:
 
 spring:
   boot:
-    message: Whisky
+    message: Peerawit Love Darin
   datasource:
     password: rootpassword
     url: jdbc:mysql://localhost:3306/department-db
