@@ -6,7 +6,7 @@ server:
   port: 8081
 spring:
   boot:
-    message: Hello! Employee Service ! (Bus Refresh)
+    message: Hello! Employee Service ! (TEST)
   datasource:
     password: rootpassword
     url: jdbc:mysql://localhost:3306/employee-db
