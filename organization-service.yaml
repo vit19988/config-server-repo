@@ -6,7 +6,7 @@ server:
   port: 8083
 spring:
   boot:
-    message: Hello! Organization Service ! (PURE)
+    message: Hello! Organization Service ! (PURE) with Bus Request
   datasource:
     password: rootpassword
     url: jdbc:mysql://localhost:3306/organization-db
