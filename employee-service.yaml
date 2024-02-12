@@ -6,7 +6,7 @@ server:
   port: 8081
 spring:
   boot:
-    message: Hello! Employee Service ! (PURE) with Bus Request
+    message: Hello! Employee Service ! (PURE) with Bus Request 2
   datasource:
     password: rootpassword
     url: jdbc:mysql://localhost:3306/employee-db
